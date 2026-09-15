@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_7_OPERACIONES"/>
+        <attribute name="authors" value="alberto soto"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-09-14 06:11:06 p. m."/>
+        <attribute name="created" value="YWxiZXJ0byBzb3RvO0xBUFRPUC05U1IzRUFPRDsyMDI2LTA5LTE0OzA1OjU5OjA2IHAuIG0uOzM3NzQ="/>
+        <attribute name="edited" value="YWxiZXJ0byBzb3RvO0xBUFRPUC05U1IzRUFPRDsyMDI2LTA5LTE0OzA2OjExOjA2IHAuIG0uOzE7Mzg3MQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

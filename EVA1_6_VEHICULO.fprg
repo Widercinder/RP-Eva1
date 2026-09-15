@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_6_VEHICULO"/>
+        <attribute name="authors" value="alberto soto"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-09-11 06:42:15 p. m."/>
+        <attribute name="created" value="YWxiZXJ0byBzb3RvO0xBUFRPUC05U1IzRUFPRDsyMDI2LTA5LTExOzA1OjU0OjA1IHAuIG0uOzM3NjU="/>
+        <attribute name="edited" value="YWxiZXJ0byBzb3RvO0xBUFRPUC05U1IzRUFPRDsyMDI2LTA5LTExOzA2OjQyOjE1IHAuIG0uOzQ7Mzg3NQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="marca" type="String" array="False" size=""/>
+            <declare name="modelo" type="String" array="False" size=""/>
+            <declare name="year" type="Integer" array="False" size=""/>
+            <declare name="color" type="String" array="False" size=""/>
+            <declare name="kilometraje" type="Integer" array="False" size=""/>
+            <declare name="precio" type="String" array="False" size=""/>
+            <output expression="&quot;Captura la marca&quot;" newline="True"/>
+            <input variable="marca"/>
+            <output expression="&quot;Captura el modelo&quot;" newline="True"/>
+            <input variable="modelo"/>
+            <output expression="&quot;Captura el a&#241;&#243;&quot;" newline="True"/>
+            <input variable="year"/>
+            <output expression="&quot;Captura el color&quot;" newline="True"/>
+            <input variable="color"/>
+            <output expression="&quot;Captura el kilometraje&quot;" newline="True"/>
+            <input variable="kilometraje"/>
+            <output expression="&quot;Captura el precio&quot;" newline="True"/>
+            <input variable="precio"/>
+            <output expression="&quot;Marca:&quot;" newline="False"/>
+            <output expression="marca" newline="True"/>
+            <output expression="&quot;Modelo:&quot;" newline="False"/>
+            <output expression="modelo" newline="True"/>
+            <output expression="&quot;A&#241;o:&quot;" newline="False"/>
+            <output expression="&quot;Color:&quot;" newline="False"/>
+            <output expression="color" newline="True"/>
+            <output expression="&quot;Kilometraje:&quot;" newline="False"/>
+            <output expression="kilometraje" newline="True"/>
+            <output expression="&quot;Precio:&quot;" newline="False"/>
+            <output expression="precio" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

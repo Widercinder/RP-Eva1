@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_3"/>
+        <attribute name="authors" value="alberto soto"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-09-03 06:42:45 p. m."/>
+        <attribute name="created" value="YWxiZXJ0byBzb3RvO0xBUFRPUC05U1IzRUFPRDsyMDI2LTA5LTAzOzA2OjE5OjE2IHAuIG0uOzM3NzA="/>
+        <attribute name="edited" value="YWxiZXJ0byBzb3RvO0xBUFRPUC05U1IzRUFPRDsyMDI2LTA5LTAzOzA2OjQyOjQ1IHAuIG0uOzQ7Mzg3OQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Bienvenidos a Fundamentos de Programaci&#243;n&quot;" newline="True"/>
+            <output expression="&quot;Jes&#250;s Alberto Soto Hern&#225;ndez&quot;" newline="True"/>
+            <output expression="&quot;Tu calificaci&#243;n ser&#225;:&quot;" newline="False"/>
+            <output expression="85" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
